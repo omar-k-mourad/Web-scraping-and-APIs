@@ -1,5 +1,5 @@
-# Web-scraping-with-BeautifulSoub
-Using BeautifulSoub and requests to get Data from websites (HTML) with ETL processes.
+# Web scraping and APIs
+Web scraping and APIs to get Data from websites with ETL processes.
 
 ### Notebook 1 (ETL for GDP data from wikipedia)
   - Write a data extraction function to retrieve the relevant information from the required URL.
