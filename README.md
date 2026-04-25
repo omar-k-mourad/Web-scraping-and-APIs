@@ -11,3 +11,9 @@ Web scraping and APIs to get Data from websites with ETL processes.
 - Run the required query on the database.
 
 - Log the progress of the code with appropriate timestamps.
+
+### Notebook 2 (NbA API)
+  [API doucmentation](https://pypi.org/project/nba_api/)
+- we will use the NBA API to determine how well the Golden State Warriors performed against the Toronto Raptors.
+
+- determine the number of points the Golden State Warriors won or lost by for each game. 
